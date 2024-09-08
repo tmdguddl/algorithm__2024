@@ -1,0 +1,14 @@
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\bin\Debug\net8.0\Marge Sort.exe
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\bin\Debug\net8.0\Marge Sort.deps.json
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\bin\Debug\net8.0\Marge Sort.runtimeconfig.json
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\bin\Debug\net8.0\Marge Sort.dll
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\bin\Debug\net8.0\Marge Sort.pdb
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.AssemblyInfoInputs.cache
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.AssemblyInfo.cs
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.csproj.CoreCompileInputs.cache
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.dll
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\refint\Marge Sort.dll
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.pdb
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\Marge Sort.genruntimeconfig.cache
+C:\Users\lsh51\source\repos\Euclid\Marge Sort\obj\Debug\net8.0\ref\Marge Sort.dll

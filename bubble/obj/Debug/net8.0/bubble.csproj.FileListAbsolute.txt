@@ -1,0 +1,14 @@
+C:\Users\lsh51\source\repos\Euclid\bubble\bin\Debug\net8.0\bubble.exe
+C:\Users\lsh51\source\repos\Euclid\bubble\bin\Debug\net8.0\bubble.deps.json
+C:\Users\lsh51\source\repos\Euclid\bubble\bin\Debug\net8.0\bubble.runtimeconfig.json
+C:\Users\lsh51\source\repos\Euclid\bubble\bin\Debug\net8.0\bubble.dll
+C:\Users\lsh51\source\repos\Euclid\bubble\bin\Debug\net8.0\bubble.pdb
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.AssemblyInfoInputs.cache
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.AssemblyInfo.cs
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.csproj.CoreCompileInputs.cache
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.dll
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\refint\bubble.dll
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.pdb
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\bubble.genruntimeconfig.cache
+C:\Users\lsh51\source\repos\Euclid\bubble\obj\Debug\net8.0\ref\bubble.dll

@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lsh51\\source\\repos\\Euclid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2480CFDD-09E6-45B7-B6F4-7B91A6556393}|Quick Sort\\Quick Sort.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\quick sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2480CFDD-09E6-45B7-B6F4-7B91A6556393}|Quick Sort\\Quick Sort.csproj|solutionrelative:quick sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6124E6A9-DF81-4E9E-AC3E-C26BAFB2496F}|Marge Sort\\Marge Sort.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\marge sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6124E6A9-DF81-4E9E-AC3E-C26BAFB2496F}|Marge Sort\\Marge Sort.csproj|solutionrelative:marge sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5343009-36B7-4908-9F97-8F0750398A26}|hanoi\\hanoi.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B5343009-36B7-4908-9F97-8F0750398A26}|hanoi\\hanoi.csproj|solutionrelative:hanoi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F418E71F-6D35-4B19-98B3-8E753584E98B}|2_factorial\\2_factorial.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\2_factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F418E71F-6D35-4B19-98B3-8E753584E98B}|2_factorial\\2_factorial.csproj|solutionrelative:2_factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C89A966-FAA3-4B74-985E-CB642A61504E}|factorial\\fibonacci.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C89A966-FAA3-4B74-985E-CB642A61504E}|factorial\\fibonacci.csproj|solutionrelative:factorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE885F6-59A5-41DF-9DF5-DC07E6CC6B88}|Euclid\\Euclid.csproj|c:\\users\\lsh51\\source\\repos\\euclid\\euclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE885F6-59A5-41DF-9DF5-DC07E6CC6B88}|Euclid\\Euclid.csproj|solutionrelative:euclid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Marge Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Marge Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Marge Sort\\Program.cs",
+              "RelativeToolTip": "Marge Sort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:47:40.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Quick Sort\\Program.cs",
+              "RelativeDocumentMoniker": "Quick Sort\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Quick Sort\\Program.cs",
+              "RelativeToolTip": "Quick Sort\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:47:25.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\hanoi\\Program.cs",
+              "RelativeDocumentMoniker": "hanoi\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\hanoi\\Program.cs",
+              "RelativeToolTip": "hanoi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:46:41.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\2_factorial\\Program.cs",
+              "RelativeDocumentMoniker": "2_factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\2_factorial\\Program.cs",
+              "RelativeToolTip": "2_factorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:23:49.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\factorial\\Program.cs",
+              "RelativeDocumentMoniker": "factorial\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\factorial\\Program.cs",
+              "RelativeToolTip": "factorial\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:19:04.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Euclid\\Program.cs",
+              "RelativeDocumentMoniker": "Euclid\\Program.cs",
+              "ToolTip": "C:\\Users\\lsh51\\source\\repos\\Euclid\\Euclid\\Program.cs",
+              "RelativeToolTip": "Euclid\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:17:41.88Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

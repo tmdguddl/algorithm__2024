@@ -1,0 +1,14 @@
+C:\Users\lsh51\source\repos\Euclid\Euclid\bin\Debug\net8.0\Euclid.exe
+C:\Users\lsh51\source\repos\Euclid\Euclid\bin\Debug\net8.0\Euclid.deps.json
+C:\Users\lsh51\source\repos\Euclid\Euclid\bin\Debug\net8.0\Euclid.runtimeconfig.json
+C:\Users\lsh51\source\repos\Euclid\Euclid\bin\Debug\net8.0\Euclid.dll
+C:\Users\lsh51\source\repos\Euclid\Euclid\bin\Debug\net8.0\Euclid.pdb
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.AssemblyInfoInputs.cache
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.AssemblyInfo.cs
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.csproj.CoreCompileInputs.cache
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.dll
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\refint\Euclid.dll
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.pdb
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\Euclid.genruntimeconfig.cache
+C:\Users\lsh51\source\repos\Euclid\Euclid\obj\Debug\net8.0\ref\Euclid.dll
